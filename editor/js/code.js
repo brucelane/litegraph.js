@@ -73,6 +73,7 @@ function addDemo( name, url )
 }
 
 //some examples
+addDemo("Websocket", "examples/websocket.json");
 addDemo("Features", "examples/features.json");
 addDemo("Benchmark", "examples/benchmark.json");
 addDemo("Subgraph", "examples/subgraph.json");
